@@ -1,0 +1,25 @@
+{
+  "Title": "Grenade",
+  "Type": "addon",
+  "Org": "ppack",
+  "Ident": "grenade",
+  "Tags": "runtime",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": true,
+  "CodePath": "/code/",
+  "Metadata": {
+    "PrimaryAsset": "Sandbox.Grenade",
+    "PhysicsMins": "-1,-1,-1",
+    "PhysicsMaxs": "1,1,1",
+    "RenderMins": "-1,-1,-1",
+    "RenderMaxs": "-1,-1,-1",
+    "Summary": "simple spawnable grenade entity",
+    "Description": "simple spawnable grenade entity that you can blow up by using it",
+    "Public": true,
+    "ReplaceTags": "entity runtime",
+    "ParentPackage": "facepunch.sandbox"
+  }
+}
